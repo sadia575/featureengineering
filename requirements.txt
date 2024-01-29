@@ -1,7 +1,6 @@
 pandas
 jupyter
-matplotlib
 seaborn
-keras
-tensorflow
+matplotlib
+numpy
 scikit-learn
